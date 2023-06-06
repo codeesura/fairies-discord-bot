@@ -196,4 +196,4 @@ async def on_ready():
     await tree.sync()
     print("Ready!")
 
-client.run("PRIVATE_KEY")
+client.run("DISCORD_BOT_TOKEN")
